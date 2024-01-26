@@ -1,0 +1,10 @@
+@charset "utf-8"
+
+.map{
+  position: relative;
+}
+
+.map_pic{
+  width: 100%;
+  heigth: 100%;
+}
